@@ -1,0 +1,9 @@
+ServerAliveInterval 300
+TCPKeepAlive yes
+StrictHostKeyChecking no
+
+Host github github.com
+  HostName github.com
+  IdentityFile ~/.ssh/github_rsa
+  User git
+  Port 22
