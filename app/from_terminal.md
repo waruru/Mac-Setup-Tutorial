@@ -8,4 +8,5 @@ brew install --cask notion
 brew install --cask warp
 brew install --cask docker
 brew install --cask scroll-reverser
+brew install --cask raycast
 ```
