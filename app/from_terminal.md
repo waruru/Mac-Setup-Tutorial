@@ -9,4 +9,5 @@ brew install --cask warp
 brew install --cask docker
 brew install --cask scroll-reverser
 brew install --cask raycast
+brew install --cask meetingbar
 ```
